@@ -1,0 +1,204 @@
+PokerStars Hand #250000000001:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:15:03 ET
+Table 'Alpha' 6-max Seat #1 is the button
+Seat 1: Hero ($10.00 in chips)
+Seat 2: Alice ($10.00 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Alice: posts small blind $0.05
+Bob: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+Carol: folds
+Dave: folds
+Eve: folds
+Hero: raises $0.20 to $0.30
+Alice: calls $0.25
+Bob: folds
+*** FLOP *** [Kc 7h 2s]
+Alice: checks
+Hero: bets $0.40
+Alice: calls $0.40
+*** TURN *** [Kc 7h 2s] [9d]
+Alice: checks
+Hero: bets $1.00
+Alice: folds
+Uncalled bet ($1.00) returned to Hero
+Hero collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07
+Board [Kc 7h 2s 9d]
+
+
+PokerStars Hand #250000000002:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:16:10 ET
+Table 'Alpha' 6-max Seat #2 is the button
+Seat 1: Hero ($10.73 in chips)
+Seat 2: Alice ($9.30 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Bob: posts small blind $0.05
+Carol: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Qs Qh]
+Dave: folds
+Eve: raises $0.20 to $0.30
+Hero: raises $0.60 to $0.90
+Alice: folds
+Bob: folds
+Carol: folds
+Eve: calls $0.60
+*** FLOP *** [8c 4d 2h]
+Eve: checks
+Hero: bets $1.20
+Eve: folds
+Uncalled bet ($1.20) returned to Hero
+Hero collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09
+Board [8c 4d 2h]
+
+
+PokerStars Hand #250000000003:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:17:45 ET
+Table 'Alpha' 6-max Seat #4 is the button
+Seat 1: Hero ($10.00 in chips)
+Seat 2: Alice ($10.00 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Dave: posts small blind $0.05
+Eve: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [7c 6c]
+Hero: calls $0.10
+Alice: folds
+Bob: raises $0.30 to $0.40
+Carol: folds
+Dave: folds
+Eve: calls $0.30
+Hero: calls $0.30
+*** FLOP *** [9c 8d 2c]
+Eve: checks
+Hero: checks
+Bob: bets $0.60
+Eve: folds
+Hero: raises $1.40 to $2.00
+Bob: calls $1.40
+*** TURN *** [9c 8d 2c] [Kh]
+Hero: bets $3.00
+Bob: calls $3.00
+*** RIVER *** [9c 8d 2c Kh] [5s]
+Hero: bets $4.60 and is all-in
+Bob: calls $4.60 and is all-in
+*** SHOW DOWN ***
+Hero: shows [7c 6c] (a straight, Five to Nine)
+Bob: shows [Ad Ac] (a pair of Aces)
+Hero collected $19.85 from pot
+*** SUMMARY ***
+Total pot $20.45 | Rake $0.60
+Board [9c 8d 2c Kh 5s]
+
+
+PokerStars Hand #250000000004:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:19:02 ET
+Table 'Alpha' 6-max Seat #5 is the button
+Seat 1: Hero ($10.00 in chips)
+Seat 2: Alice ($10.00 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Eve: posts small blind $0.05
+Hero: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Jd 4s]
+Alice: folds
+Bob: folds
+Carol: raises $0.15 to $0.25
+Dave: calls $0.25
+Eve: folds
+Hero: folds
+*** FLOP *** [As Td 3h]
+Carol: bets $0.30
+Dave: raises $0.60 to $0.90
+Carol: calls $0.60
+*** TURN *** [As Td 3h] [3c]
+Carol: checks
+Dave: checks
+*** RIVER *** [As Td 3h 3c] [Qd]
+Carol: checks
+Dave: bets $1.50
+Carol: folds
+Uncalled bet ($1.50) returned to Dave
+Dave collected $2.33 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12
+Board [As Td 3h 3c Qd]
+
+
+PokerStars Hand #250000000005:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:20:30 ET
+Table 'Alpha' 6-max Seat #6 is the button
+Seat 1: Hero ($10.00 in chips)
+Seat 2: Alice ($10.00 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Hero: posts small blind $0.05
+Alice: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [Kh Td]
+Bob: folds
+Carol: folds
+Dave: folds
+Eve: folds
+Hero: raises $0.20 to $0.30
+Alice: raises $0.60 to $0.90
+Hero: folds
+Uncalled bet ($0.60) returned to Alice
+Alice collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+
+
+PokerStars Hand #250000000006:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/11/01 20:21:55 ET
+Table 'Alpha' 6-max Seat #1 is the button
+Seat 1: Hero ($10.00 in chips)
+Seat 2: Alice ($10.00 in chips)
+Seat 3: Bob ($10.00 in chips)
+Seat 4: Carol ($10.00 in chips)
+Seat 5: Dave ($10.00 in chips)
+Seat 6: Eve ($10.00 in chips)
+Alice: posts small blind $0.05
+Bob: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Hero [9s 8s]
+Carol: calls $0.10
+Dave: calls $0.10
+Eve: folds
+Hero: calls $0.10
+Alice: calls $0.05
+Bob: checks
+*** FLOP *** [Jh Jc 5d]
+Alice: checks
+Bob: checks
+Carol: bets $0.25
+Dave: calls $0.25
+Hero: folds
+Alice: folds
+Bob: folds
+*** TURN *** [Jh Jc 5d] [6s]
+Carol: checks
+Dave: checks
+*** RIVER *** [Jh Jc 5d 6s] [2d]
+Carol: checks
+Dave: checks
+*** SHOW DOWN ***
+Carol: shows [Ks Qs] (a pair of Jacks)
+Dave: shows [5h 4h] (two pair, Jacks and Fives)
+Dave collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0.05
+Board [Jh Jc 5d 6s 2d]

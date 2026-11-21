@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pokerhud"
+version = "1.0.0"
+description = "Estatísticas de HUD (VPIP, PFR, 3-bet, AF, WTSD, bb/100) e alertas de leaks a partir de hand histories da PokerStars"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "GuilhermeSGL" }]
+
+[project.scripts]
+pokerhud = "pokerhud.cli:main"
+
+[tool.setuptools]
+packages = ["pokerhud"]
