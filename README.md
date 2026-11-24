@@ -80,4 +80,4 @@ python -m unittest discover -s tests -t .
 - Exportar o resultado das sessões direto para o [Poker Team Manager](https://github.com/GuilhermeSGL/poker-team-manager).
 
 ---
-Feito por [Guilherme](https://github.com/GuilhermeSGL), jogador profissional e desenvolvedor. Licença MIT.
+Feito por [Guilherme](https://github.com/GuilhermeSGL). Licença MIT.
